@@ -1,0 +1,82 @@
+{
+  "logoText": "PortalProje",
+  
+  "navAnasayfa": "Homepage",
+  "navHakkinda": "About",
+  "navIletisim": "Contact",
+  "navMisyon": "Mission",
+  "navProjeler": "Projects",
+  "navUrunler": "Products",
+  
+  "footerCopy": "© 2025 PortalProje. All rights reserved.",
+  
+  "heroTitle": "Achieve Success with Strategic Consulting",
+  "heroSubtitle": "PortalProje offers customized solutions to maximize your institution and business potential.",
+  "heroLearnBtn": "Discover Our Services",
+  
+  "servicesTitle": "Project Management",
+  "servicesDesc": "We manage your projects end-to-end to achieve your goals on time and within budget.",
+  "servicesLink": "View Details →",
+  
+  "consultingTitle": "Strategic Consulting",
+  "consultingDesc": "We help you develop effective strategies for your business's long-term success.",
+  "consultingLink": "Learn More →",
+  
+  "trainingTitle": "Training and Development",
+  "trainingDesc": "We offer comprehensive training programs to strengthen and enhance your team's skills.",
+  "trainingLink": "Explore Programs →",
+  
+  "pageTitle": "PortalProje – Homepage",
+  
+  "innovationsTitle": "Check Out the Innovations Announced in PortalProje 2024",
+  "innovationsDesc": "Take a look at the most important moments from the leading knowledge management conference.",
+  "innovationsLink": "See What You Missed →",
+  
+  "savingsTitle": "PortalProje Saves $1 Billion in 10 Years with Its Own Platform",
+  "savingsDesc": "We reduce costs by using our own products. You can do it too!",
+  "savingsLink": "Learn the Details →",
+  
+  "infoReimaginedTitle": "Information Reimagined",
+  "infoReimaginedDesc": "Elevate human potential with enhanced information management.",
+  "infoReimaginedLink": "See What’s Possible →",
+
+  "teamHeading": "Our Team",
+  "teamDesc": "PortalProje is led by a team of experienced and innovative professionals.",
+  
+  "valuesHeading": "Our Values",
+  "valuesDesc": "We are committed to innovation, transparency, and contributing to the community.",
+  
+  "servicesHeading": "Our Services",
+  "servicesList": [
+    "Project design and development",
+    "Field research",
+    "Policy document preparation",
+    "Training and capacity building",
+    "Advocacy and awareness campaigns"
+  ],
+
+  "aboutHeading": "About PortalProje",
+  "aboutParagraph1": "At Portal Proje Danışmanlık, we provide support to strengthen civil society organizations in Türkiye and advance social development. Our team consists of experienced professionals in areas such as project management, research, monitoring and evaluation, and advocacy.",
+  "aboutParagraph2": "Our team, with academic and civil society backgrounds, specializes in human rights, gender equality, and social justice, as well as NGO management, crisis coordination, and project consultancy. We have over 20 years of experience in the civil society sector, collaborating with national, international, and local NGOs. Additionally, we have significant expertise in media relations and communication strategies.",
+  "aboutParagraph3": "Our expertise focuses on strengthening the financial, organizational, and institutional capacities of civil society organizations in line with their mission and vision. We provide project and resource development tailored to their specific needs with a rights-based, sustainable, and subject-centered approach. We help them fulfill their missions more effectively.",
+  "aboutParagraph4": "We look forward to working with you to implement strong projects for a more equitable society.",
+
+  "missionHeading": "Our Mission",
+  "missionParagraph1": "At PortalProje, we aim to use technology to improve communities and enhance lives.",
+  "missionParagraph2": "We believe in continuous innovation, collaboration, and solutions that empower everyone.",
+
+  "projectsHeading": "Our Projects",
+  "projectsParagraph1": "PortalProje participates in projects that promote innovation in cloud computing, data analytics, and digital transformation.",
+  "projectsParagraph2": "From large-scale corporate solutions to community initiatives, our projects aim to create a positive impact across different sectors.",
+
+  "productsHeading": "Our Products",
+  "productsParagraph1": "Explore our cloud-based products designed to simplify workflows, enhance collaboration, and improve data management.",
+  "productsParagraph2": "Our solutions address real-world challenges, empowering individuals and organizations to achieve more.",
+
+  "contactHeading": "Get in Touch",
+  "contactParagraph": "Do you have questions or need more information? Contact our team, and we will get back to you shortly!",
+  "contactNameLabel": "Name",
+  "contactEmailLabel": "Email",
+  "contactMessageLabel": "Message",
+  "contactSendBtn": "Send"
+}

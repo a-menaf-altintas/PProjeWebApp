@@ -1,0 +1,82 @@
+{
+  "logoText": "PortalProje",
+  
+  "navAnasayfa": "Anasayfa",
+  "navHakkinda": "Hakkında",
+  "navIletisim": "İletişim",
+  "navMisyon": "Misyon",
+  "navProjeler": "Projeler",
+  "navUrunler": "Ürünler",
+  
+  "footerCopy": "© 2025 PortalProje. Tüm hakları saklıdır.",
+  
+  "heroTitle": "Stratejik Danışmanlıkla Başarıya Ulaşın",
+  "heroSubtitle": "PortalProje kurumunuzun ve işletmenizin potansiyelini maksimize etmek için özelleştirilmiş çözümler sunar.",
+  "heroLearnBtn": "Hizmetlerimizi Keşfedin",
+  
+  "servicesTitle": "Proje Yönetimi",
+  "servicesDesc": "Projelerinizi baştan sona yöneterek hedeflerinize zamanında ve bütçe dahilinde ulaşmanızı sağlıyoruz.",
+  "servicesLink": "Detayları Görün →",
+  
+  "consultingTitle": "Stratejik Danışmanlık",
+  "consultingDesc": "İşletmenizin uzun vadeli başarısı için etkili stratejiler geliştirmenize yardımcı oluyoruz.",
+  "consultingLink": "Daha Fazla Bilgi →",
+  
+  "trainingTitle": "Eğitim ve Gelişim",
+  "trainingDesc": "Ekibinizi güçlendirmek ve yetkinliklerini artırmak için kapsamlı eğitim programları sunuyoruz.",
+  "trainingLink": "Programları İnceleyin →",
+  
+  "pageTitle": "PortalProje – Anasayfa",
+  
+  "innovationsTitle": "PortalProje 2024'te Açıklanan Yeniliklere Göz Atın",
+  "innovationsDesc": "Önde gelen bilgi yönetimi konferansından en önemli anlara göz atın.",
+  "innovationsLink": "Kaçırdıklarınızı görün →",
+  
+  "savingsTitle": "PortalProje, Kendi Platformuyla 10 Yılda 1 Milyar Dolar Tasarruf Ediyor",
+  "savingsDesc": "Kendi ürünlerimizi kullanarak maliyetleri düşürüyoruz. Siz de yapabilirsiniz!",
+  "savingsLink": "Detayları öğrenin →",
+  
+  "infoReimaginedTitle": "Bilgi Yeniden Tasarlandı",
+  "infoReimaginedDesc": "Geliştirilmiş bilgi yönetimiyle insan potansiyelini yükseltin.",
+  "infoReimaginedLink": "Nelerin mümkün olduğunu görün →",
+
+  "teamHeading": "Ekibimiz",
+  "teamDesc": "PortalProje, deneyimli ve yenilikçi profesyonellerden oluşan bir ekip tarafından yönetilmektedir.",
+  
+  "valuesHeading": "Değerlerimiz",
+  "valuesDesc": "İnovasyon, şeffaflık ve topluma katkı sağlama değerlerine bağlıyız.",
+  
+  "servicesHeading": "Hizmetlerimiz",
+  "servicesList": [
+    "Proje tasarımı ve geliştirme",
+    "Saha araştırmaları",
+    "Politika belgeleri oluşturma",
+    "Eğitim ve kapasite geliştirme",
+    "Savunuculuk ve farkındalık çalışmaları"
+  ],
+
+  "aboutHeading": "PortalProje Hakkında",
+  "aboutParagraph1": "Biz, “<span class='highlight'>Portal Proje Danışmanlık</span>” olarak Türkiye'deki sivil toplum kuruluşlarının güçlenmesi ve toplumsal kalkınmanın ilerlemesi için destek sunuyoruz.Ekibimiz, proje yönetimi, araştırma, izleme ve değerlendirme, savunuculuk gibi farklı alanlarda deneyimli profesyonellerden oluşmaktadır.",
+  "aboutParagraph2": "Akademik ve sivil toplum geçmişi olan ekibimiz, insan hakları, toplumsal cinsiyet eşitliği ve sosyal adalet alanında başta olmak üzere, STK yönetimi, kriz koordinasyonu ve proje danışmanlığı konusunda uzmandır. Ekibimiz, 20 yılı aşkın bir süredir sivil toplum alanında çalışmış, ulusal, uluslararası ve yerel STK’larla birlikte çalışma deneyimine sahiptir. Ayrıca medya ilişkileri ve iletişim stratejilerinde de önemli deneyimlere sahiptir.",
+  "aboutParagraph3": "Uzmanlık alanlarımız kapsamında sivil toplum kuruluşlarının misyonu ve vizyonu doğrultusunda finansal, örgütsel ve kurumsal kapasitelerini güçlendirmeye odaklanıyoruz. Özel ihtiyaçlarına hak temelli, sürdürülebilir ve kurumun çalışma alanıyla ilişkili özneyi önceleyerek proje ve kaynak geliştirme sağlıyoruz. Hizmet verdiğimiz alanlar doğrultusunda misyonlarını daha etkin bir şekilde yerine getirmelerine destek oluyoruz.",
+  "aboutParagraph4": "Sizinle birlikte çalışarak daha adil bir toplum için güçlü projeler hayata geçirmek için sabırsızlanıyoruz.",
+
+  "missionHeading": "Misyonumuz",
+  "missionParagraph1": "PortalProje olarak, teknolojiyi kullanarak toplulukları iyileştirmeyi ve yaşamları geliştirmeyi amaçlıyoruz.",
+  "missionParagraph2": "Sürekli yenilik, iş birliği ve herkesi güçlendiren çözümlere inanıyoruz.",
+
+  "projectsHeading": "Projelerimiz",
+  "projectsParagraph1": "PortalProje, bulut bilişim, veri analitiği ve dijital dönüşüm alanlarında yeniliği teşvik eden projelere katılmaktadır.",
+  "projectsParagraph2": "Büyük ölçekli kurumsal çözümlerden topluluk girişimlerine kadar, projelerimiz farklı sektörlerde olumlu etki yaratmayı hedeflemektedir.",
+
+  "productsHeading": "Ürünlerimiz",
+  "productsParagraph1": "Veri yönetimini kolaylaştıran, iş birliğini geliştiren ve iş akışlarını hızlandıran bulut tabanlı ürünlerimizi keşfedin.",
+  "productsParagraph2": "Çözümlerimiz, bireyleri ve organizasyonları daha fazlasına ulaşmaları için güçlendiren gerçek dünya zorluklarını hedef alır.",
+
+  "contactHeading": "İletişime Geçin",
+  "contactParagraph": "Sorularınız mı var veya daha fazla bilgiye mi ihtiyacınız var? Ekibimizle iletişime geçin, size kısa sürede geri döneceğiz!",
+  "contactNameLabel": "İsim",
+  "contactEmailLabel": "E-posta",
+  "contactMessageLabel": "Mesaj",
+  "contactSendBtn": "Gönder"
+}

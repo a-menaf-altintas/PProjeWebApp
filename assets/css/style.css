@@ -1,0 +1,206 @@
+/* style.css */
+
+/* 1) SIMPLE RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fc;
+    color: #333;
+  }
+  
+  /* 2) NAVBAR */
+  .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #0a1633; /* navy */
+    color: #fff;
+    padding: 1rem 2rem;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .logo-img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .logo-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin-left: 2rem;
+  }
+  
+  .nav-links li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  /* 3) LANGUAGE SWITCH */
+  .language-switch {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-left: auto; /* push the language switch to the right */
+  }
+  
+  .flag-btn {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+    gap: 0.5rem;
+    font: inherit; /* match the navbar font style */
+  }
+  
+  .flag-icon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  /* 4) RESPONSIVE */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .nav-links {
+      flex-direction: column;
+      margin-left: 0;
+      margin-top: 1rem;
+    }
+  
+    .language-switch {
+      margin-top: 1rem;
+    }
+  }
+  
+  /* 5) HERO SECTION */
+  .hero-section {
+    background-color: #0a1633;
+    color: #fff;
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+  
+  .hero-text h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-text p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .hero-text button {
+    padding: 0.75rem 1.5rem;
+    background-color: #fff;
+    color: #0a1633;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  
+  /* 6) INFO SECTION */
+  .info-section {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+  }
+  
+  .info-box {
+    flex: 1;
+    min-width: 250px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 1.5rem;
+    text-align: center;
+  }
+  
+  /* 7) PAGE BANNER (about, contact, mission, etc.) */
+  .page-banner {
+    background-color: #0a1633;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  /* 8) PAGE CONTENT */
+  .page-content {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  /* 9) CONTACT FORM EXAMPLE */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 300px;
+    margin: 1.5rem auto;
+  }
+  
+  form input,
+  form textarea {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  form button {
+    background-color: #0a1633;
+    color: #fff;
+    border: none;
+    padding: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  /* 10) FOOTER */
+  .footer-section {
+    text-align: center;
+    padding: 1rem;
+    background-color: #fafafa;
+    border-top: 1px solid #ddd;
+  }
+  
+  .footer-section p {
+    font-size: 0.85rem;
+    color: #666;
+  }
+  
+/*highlight text*/
+  .highlight {
+    font-family: 'Courier New', monospace; /* Desired font */
+    font-weight: bold;                     /* Bold font style */
+    color: #2d0de3;                        /* Optional: Change color */
+  }
